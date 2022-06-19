@@ -1,0 +1,10 @@
+.vscode
+.vscode/*
+results
+results/*
+.npz
+.pth
+*.cpython-39.pyc
+*/__pycache__
+*/__pycache__/*
+*.log
